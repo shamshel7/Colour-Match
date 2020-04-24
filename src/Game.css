@@ -1,0 +1,50 @@
+.Game {
+    height: 100%;
+    background-color: rgb(235, 26, 26, 0);
+}
+
+.board {
+    width: 100%;
+    text-align: center;
+}
+
+.topcard {
+    background-color: rgb(167, 0, 158, 0.8);
+    color: #fff;
+    margin-bottom: 20px;
+    border-radius: 0 0 5px 5px;
+    padding: 20px;
+}
+
+.title {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.menu {
+    min-height: 100%;
+}
+
+.diffButton {
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(152, 255, 255);
+    border: none;
+    font-weight: bold;
+    font: Verdana;
+    color: purple;
+    font-size: large;
+    cursor: pointer;
+}
+
+.backToMenu {
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    font-weight: bold;
+    font: Verdana;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    cursor: pointer;
+}
